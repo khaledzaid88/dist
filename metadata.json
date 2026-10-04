@@ -1,0 +1,6 @@
+{
+  "name": "MijWiz",
+  "description": "A sleek, minimalist media player for browsing and streaming Arabic albums, artists, and songs with high fidelity sound.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
